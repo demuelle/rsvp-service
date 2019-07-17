@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f517e15-0737-49fb-9a5a-361196393a31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/rsvp/dao/RsvpDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/trilogyed/rsvp/dao/RsvpDaoTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3f517e15-0737-49fb-9a5a-361196393a31" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/trilogyed/rsvp/dao/RsvpDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+            <state relative-caret-position="205">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -442,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/trilogyed/rsvp/dao/RsvpDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+        <state relative-caret-position="205">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>

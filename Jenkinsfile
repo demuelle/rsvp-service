@@ -16,7 +16,7 @@ pipeline {
 		}
 		stage('Deliver') {
 			steps {
-				sh './other2.sh'
+				sh './other3.sh'
 			}
 		}
 	}

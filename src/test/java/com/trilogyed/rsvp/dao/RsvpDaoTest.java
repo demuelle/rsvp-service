@@ -13,11 +13,11 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
-//@RunWith(SpringRunner.class)
-//@SpringBootTest
+@RunWith(SpringRunner.class)
+@SpringBootTest
 public class RsvpDaoTest {
 
-/*    @Autowired
+    @Autowired
     RsvpDao dao;
 
     @Before
@@ -62,5 +62,5 @@ public class RsvpDaoTest {
         Rsvp fromDao = dao.getRsvp(rsvp.getId());
         assertEquals(rsvp, fromDao);
     }
-*/
+
 }
